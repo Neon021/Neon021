@@ -5,15 +5,15 @@
 
 - 🔭 I’m currently working on [Back-End&API Certificate](https://www.freecodecamp.org/learn/back-end-development-and-apis/#back-end-development-and-apis-projects)
 
-- 🌱 I’m currently learning **Threading**
+- 🌱 I’m currently learning **Threading** and **Data Structures and Algorithms**
 
-- 📝 I regularly write articles on [https://iamfurkan.azurewebsites.net](https://iamfurkan.azurewebsites.net)
+- 📝 I regularly write articles on [IAmFurkan](https://iamfurkan.azurewebsites.net)
 
 - 💬 Ask me about **ASP.Net Core**
 
 - 📫 How to reach me **bilalyigit594@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1GcRnUZWaqccONWvVv1XDH-ziVrn9b6KsdM7Gpyo9PSc/edit?usp=sharing](https://docs.google.com/document/d/1GcRnUZWaqccONWvVv1XDH-ziVrn9b6KsdM7Gpyo9PSc/edit?usp=sharing)
+- 📄 Know about my experiences [My Resume](https://docs.google.com/document/d/1GcRnUZWaqccONWvVv1XDH-ziVrn9b6KsdM7Gpyo9PSc/edit?usp=sharing)
 
 - ⚡ Fun fact **I thought I hated math**
 

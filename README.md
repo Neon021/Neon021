@@ -3,13 +3,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=neon021" alt="neon021" /></a> </p>
 
-- 🔭 I’m currently working on [Back-End&API Certificate](https://www.freecodecamp.org/learn/back-end-development-and-apis/#back-end-development-and-apis-projects)
+- 🔭 I’m currently working on [My Custom DI Container](https://github.com/Neon021/Custom-Dependency-Injection) for weak singleton implementation
 
 - 🌱 I’m currently learning **Threading** and **Data Structures and Algorithms**
 
 - 📝 I regularly write articles on [IAmFurkan](https://iamfurkan.azurewebsites.net)
 
-- 💬 Ask me about **ASP.Net Core**
+- 💬 Ask me about **.Net Core**
 
 - 📫 How to reach me **bilalyigit594@gmail.com**
 

@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **bilalyigit594@gmail.com**
 
-- 📄 Know about my experiences [My Resume](https://docs.google.com/document/d/1GcRnUZWaqccONWvVv1XDH-ziVrn9b6KsdM7Gpyo9PSc/edit?usp=sharing)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1UDNI1bjA01wb4L1yttHJM4TaHuhidkFK/view?usp=sharing)
 
 - ⚡ Fun fact **I thought I hated math**
 

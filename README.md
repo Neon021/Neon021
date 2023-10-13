@@ -3,19 +3,20 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=neon021" alt="neon021" /></a> </p>
 
-- 🔭 I’m currently working on [My Custom DI Container](https://github.com/Neon021/Custom-Dependency-Injection) for weak singleton implementation
+- 🔭 I’m currently working on [BuberDinner]([https://github.com/Neon021/Custom-Dependency-Injection](https://github.com/Neon021/BuberDinner)) to enhance my skills at software development 
 
-- 🌱 I’m currently learning **Threading** and **Data Structures and Algorithms**
+- 🌱 I’m currently learning **Threading**, **Domain Driven Design** and **Network Programming**
 
-- 📝 I regularly write articles on [IAmFurkan](https://iamfurkan.azurewebsites.net)
+- 🏫 I'm currently enrolled in L'école 42 and completed the Piscine!!
+
+- 📝 I regularly write articles on [IAmFurkan](https://iamfurkan.azurewebsites.net) _website is down due to Azure fees_:(
 
 - 💬 Ask me about **.Net Core**
 
 - 📫 How to reach me **bilalyigit594@gmail.com**
 
-- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1UDNI1bjA01wb4L1yttHJM4TaHuhidkFK/view?usp=sharing)
+- 📄 Know about my experiences [My Resume]([https://drive.google.com/file/d/1UDNI1bjA01wb4L1yttHJM4TaHuhidkFK/view?usp=sharing](https://drive.google.com/file/d/1ZahrUSFXafWn6x0JgQVe5INVSzUyqqbN/view?usp=sharing))
 
-- ⚡ Fun fact **I thought I hated math**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

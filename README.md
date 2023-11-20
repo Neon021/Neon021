@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=neon021" alt="neon021" /></a> </p>
 
-- 🔭 I’m currently working on [IAmFurkan]([[https://github.com/Neon021/Custom-Dependency-Injection](https://github.com/Neon021/BuberDinner](https://github.com/Neon021/IAmFurkan)))'s new version engineered with DDD practices to enhance my skills as a software engineer
+- 🔭 I’m currently working on [IAmFurkan](https://github.com/Neon021/IAmFurkan)'s new version engineered with DDD practices to enhance my skills as a software engineer
 
 - 🌱 I’m currently learning **Rust**, **Domain Driven Design** and **Network Programming**
 
@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **bilalyigit594@gmail.com**
 
-- 📄 Know about my experiences [My Resume]((https://drive.google.com/file/d/1ZahrUSFXafWn6x0JgQVe5INVSzUyqqbN/view?usp=sharing))
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1ZahrUSFXafWn6x0JgQVe5INVSzUyqqbN/view?usp=sharing)
 
 
 <h3 align="left">Connect with me:</h3>

@@ -9,7 +9,7 @@
 
 - 🏫 I'm currently enrolled in L'école 42 and completed the Piscine!!
 
-- 📝 I regularly write articles on [IAmFurkan](https://iamfurkan.azurewebsites.net) 
+- 📝 I regularly write articles on [IAmFurkan](http://167.99.32.20/?pageNumber=1) 
 
 - 💬 Ask me about **.Net Core**
 
